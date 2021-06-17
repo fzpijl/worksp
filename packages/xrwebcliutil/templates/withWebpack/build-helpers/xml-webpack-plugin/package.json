@@ -1,6 +1,0 @@
-{
-  "name": "xml-webpack-plugin",
-  "version": "1.0.0",
-  "description": "处理index.xml和XRManifest.xml中引用资源的plugin",
-  "main": "./index.js"
-}
