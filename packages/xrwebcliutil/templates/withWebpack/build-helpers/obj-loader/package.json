@@ -1,0 +1,6 @@
+{
+  "name": "obj-loader",
+  "version": "1.0.0",
+  "description": "处理.obj资源的webpack loader",
+  "main": "./index.js"
+}

@@ -1,0 +1,6 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+templates/withWebpack/build-helpers/copy-helpers-to-node-modules.js

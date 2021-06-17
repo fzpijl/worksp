@@ -1,0 +1,27 @@
+{
+  "name": "obj-loader",
+  "version": "1.0.0",
+  "description": "处理.obj资源的webpack loader",
+  "main": "dist/obj-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env NODE_ENV=development webpack --watch",
+    "build": "rm -rf dist && cross-env NODE_ENV=production webpack && cp README.md dist/README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.iris-view.com:web/objloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "cross-env": "^6.0.0",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "schema-utils": "^3.0.0",
+    "vue": "^2.6.14"
+  }
+}
