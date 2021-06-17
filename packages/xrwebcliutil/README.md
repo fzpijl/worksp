@@ -1,0 +1,1 @@
+一些供xrwebcli和xrwebvs使用的函数

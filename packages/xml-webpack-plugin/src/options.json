@@ -1,0 +1,17 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "file": {
+      "description": "The filename for the target file(s).",
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "instanceof": "Array"
+        }
+      ]
+    }
+  },
+  "type": "object"
+}
