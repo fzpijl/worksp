@@ -2,7 +2,7 @@
   "name": "aa",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "build": "echo build aa ............"
   },
