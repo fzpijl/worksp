@@ -37,5 +37,6 @@
     "obj-loader": "^0.0.4",
     "validate-npm-package-name": "^3.0.0",
     "xml-webpack-plugin": "^0.0.4"
-  }
+  },
+  "gitHead": "fc99928c301b2b4956eff8354cc45cab86fe1065"
 }

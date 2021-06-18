@@ -23,5 +23,6 @@
     "loader-utils": "^2.0.0",
     "schema-utils": "^3.0.0",
     "vue": "^2.6.14"
-  }
+  },
+  "gitHead": "fc99928c301b2b4956eff8354cc45cab86fe1065"
 }

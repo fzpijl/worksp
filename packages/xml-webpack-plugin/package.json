@@ -22,5 +22,6 @@
   },
   "dependencies": {
     "schema-utils": "^3.0.0"
-  }
+  },
+  "gitHead": "fc99928c301b2b4956eff8354cc45cab86fe1065"
 }
