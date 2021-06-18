@@ -1,6 +1,6 @@
 {
   "name": "t-xml-webpack-plugin",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "处理index.xml和XRManifest.xml中引用资源的plugin",
   "main": "dist/xml-webpack-plugin.js",
   "scripts": {
