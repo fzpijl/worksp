@@ -1,6 +1,6 @@
 {
   "name": "t-obj-loader",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "处理.obj资源的webpack loader",
   "main": "dist/obj-loader.js",
   "scripts": {
