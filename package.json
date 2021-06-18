@@ -5,6 +5,9 @@
   "license": "MIT",
   "private": true,
   "workspaces": ["packages/*"],
+  "scripts": {
+    "xrwebcliutil": "lerna exec --scope xrwebcliutil -- yarn run build"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
