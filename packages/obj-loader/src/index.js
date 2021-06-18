@@ -1,6 +1,6 @@
 import path from "path";
 import fs from "fs";
-
+console.log('hi');
 import { getOptions, interpolateName } from "loader-utils";
 import { validate } from "schema-utils";
 
