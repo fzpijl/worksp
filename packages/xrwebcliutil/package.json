@@ -5,7 +5,7 @@
   "main": "out/index.js",
   "scripts": {
     "dev": "tsc --watch",
-    "build-obj-loader":"cd helpers/obj-loader && npm run build && cp -r dist ../../templates/withWebpack/build-helpers/obj-loader/",
+    "build-obj-loader": "cd helpers/obj-loader && npm run build && cp -r dist ../../templates/withWebpack/build-helpers/obj-loader/",
     "build-xml-webpack-plugin": "cd helpers/xml-webpack-plugin && npm run build && cp -r dist/ ../../templates/withWebpack/build-helpers/xml-webpack-plugin",
     "clear-helpers": "rm -rf templates/withWebpack/build-helpers/obj-loader && rm -rf templates/withWebpack/build-helpers/xml-webpack-plugin",
     "obfuscator-copy": "javascript-obfuscator helpers/copy-helpers-to-node-modules.js --output templates/withWebpack/build-helpers/copy-helpers-to-node-modules.js",
@@ -34,8 +34,8 @@
     "glob": "^7.1.6",
     "javascript-obfuscator": "^2.12.0",
     "jszip": "^3.5.0",
+    "obj-loader": "^0.0.1",
     "validate-npm-package-name": "^3.0.0",
-    "obj-loader": "^1.0.0",
-    "xml-webpack-plugin": "^1.0.0"
+    "xml-webpack-plugin": "^0.0.1"
   }
 }
