@@ -5,6 +5,7 @@ const { validate } = require('schema-utils')
 
 const schema = require("./options.json")
 
+console.log('hi');
 class XmlWebpackPlugin {
   static defaultOptions = {
     file: ['index.xml', 'XRManifest.xml']
