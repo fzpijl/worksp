@@ -1,5 +1,5 @@
 {
-  "name": "obj-loader",
+  "name": "t-obj-loader",
   "version": "0.0.6",
   "description": "处理.obj资源的webpack loader",
   "main": "dist/obj-loader.js",
@@ -24,5 +24,5 @@
     "schema-utils": "^3.0.0",
     "vue": "^2.6.14"
   },
-  "gitHead": "fc99928c301b2b4956eff8354cc45cab86fe1065"
+  "gitHead": "9b7bda7b6eccf94e89fd1f593975dc028fe852f9"
 }

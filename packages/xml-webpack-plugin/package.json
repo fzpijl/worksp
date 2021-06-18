@@ -1,5 +1,5 @@
 {
-  "name": "xml-webpack-plugin",
+  "name": "t-xml-webpack-plugin",
   "version": "0.0.6",
   "description": "处理index.xml和XRManifest.xml中引用资源的plugin",
   "main": "dist/xml-webpack-plugin.js",
@@ -23,5 +23,5 @@
   "dependencies": {
     "schema-utils": "^3.0.0"
   },
-  "gitHead": "fc99928c301b2b4956eff8354cc45cab86fe1065"
+  "gitHead": "9b7bda7b6eccf94e89fd1f593975dc028fe852f9"
 }

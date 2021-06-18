@@ -1,5 +1,5 @@
 {
-  "name": "xrwebcliutil",
+  "name": "t-xrwebcliutil",
   "version": "0.0.6",
   "description": "一些供xrwebcli和xrwebvs使用的函数",
   "main": "out/index.js",
@@ -38,5 +38,5 @@
     "validate-npm-package-name": "^3.0.0",
     "xml-webpack-plugin": "^0.0.6"
   },
-  "gitHead": "fc99928c301b2b4956eff8354cc45cab86fe1065"
+  "gitHead": "9b7bda7b6eccf94e89fd1f593975dc028fe852f9"
 }

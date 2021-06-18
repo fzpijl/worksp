@@ -1,13 +1,13 @@
 {
-  "name": "aa",
+  "name": "t-aa",
   "version": "0.0.6",
   "main": "index.js",
-  "author": "fanren",
   "license": "ISC",
   "scripts": {
     "build": "echo build aa ............"
   },
   "dependencies": {
     "fs-extra": "^10.0.0"
-  }
+  },
+  "gitHead": "9b7bda7b6eccf94e89fd1f593975dc028fe852f9"
 }
