@@ -1,6 +1,6 @@
 {
   "name": "xrwebcliutil",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "一些供xrwebcli和xrwebvs使用的函数",
   "main": "out/index.js",
   "scripts": {
@@ -34,9 +34,9 @@
     "glob": "^7.1.6",
     "javascript-obfuscator": "^2.12.0",
     "jszip": "^3.5.0",
-    "obj-loader": "^0.0.5",
+    "obj-loader": "^0.0.6",
     "validate-npm-package-name": "^3.0.0",
-    "xml-webpack-plugin": "^0.0.5"
+    "xml-webpack-plugin": "^0.0.6"
   },
   "gitHead": "fc99928c301b2b4956eff8354cc45cab86fe1065"
 }
