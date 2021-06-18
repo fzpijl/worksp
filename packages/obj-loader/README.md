@@ -1,5 +1,7 @@
 # objLoader
 
+#### indenpendent
+
 处理obj资源的webpack loader
 
 遇到fbx资源直接输出;遇到代码中直接引入mtl会忽略，所以不要在代码中直接引用mlt资源
