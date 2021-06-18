@@ -1,6 +1,6 @@
 {
   "name": "t-xrwebcliutil",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "一些供xrwebcli和xrwebvs使用的函数",
   "main": "out/index.js",
   "scripts": {
